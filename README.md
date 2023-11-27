@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>Welcome to Cytel R site repository</h1>
+<h1>Welcome to Cytel </h1>
 
 </body>
 </html>
